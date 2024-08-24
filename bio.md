@@ -1,0 +1,1 @@
+My name is Rory -- I haven't used a lot of Git yet, but I'm learning. I also didn't take 131 recently, so I don't remember a lot about C++. Excited for everything I'll be learning in this course.
